@@ -201,6 +201,3 @@ while(True):
         addNum()
     print()
     print()
-
-#This isn't a perfect representation like, at all
-#TODO: Fix physics with merges- double merge still occurs but rarely, definite corner case
